@@ -1,0 +1,5 @@
+public TestCodeClass(){
+	String str = 'Rajat';
+	String str2 = 'Dilip';
+	String str3 = 'Shiv';
+}
