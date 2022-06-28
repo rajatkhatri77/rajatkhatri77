@@ -1,0 +1,3 @@
+public TestCode2class{
+	String str = 'Rajat';
+}
