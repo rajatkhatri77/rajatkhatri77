@@ -1,3 +1,5 @@
 public TestCode2class{
 	String str = 'Rajat';
+	
+	String str2 = 'Test';
 }
